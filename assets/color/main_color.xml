@@ -1,0 +1,12 @@
+<xml>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#14193F</color>
+    <color name="grey">#A4A8AE</color>
+    <color name="lightBackground">#F6F8FB</color>
+    <color name="darkBackground">#020518</color>
+    <color name="blue">#53C1F9</color>
+    <color name="purple">#5142E6</color>
+    <color name="green">#22B07D</color>
+    <color name="blackButton">#1A1D2E</color>
+    <color name="red">#FF2566</color>
+</xml>
